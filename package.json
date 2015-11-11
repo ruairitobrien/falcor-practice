@@ -1,0 +1,28 @@
+{
+  "name": "falcor-practice",
+  "version": "1.0.0",
+  "description": "Just following along with this course: https://app.pluralsight.com/library/courses/play-by-play-react-babel-webpack-falcor-brian-holt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruairitobrien/falcor-practice.git"
+  },
+  "author": "Ruairi O'Brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruairitobrien/falcor-practice/issues"
+  },
+  "homepage": "https://github.com/ruairitobrien/falcor-practice#readme",
+  "devDependencies": {
+    "babel-core": "^6.1.4",
+    "babel-loader": "^6.1.0",
+    "webpack": "^1.12.4"
+  },
+  "dependencies": {
+    "falcor": "^0.1.14",
+    "react": "^0.14.2"
+  }
+}
